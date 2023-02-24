@@ -1,0 +1,101 @@
+#box4{
+border: 3px solid;
+width: 240px;
+height: 140px;
+margin: 15px;
+background: linear-gradient(to left,darkblue,darkgreen); 
+color: darkgoldenrod;
+border-color: black;
+}
+body{
+    background-image: url("allah background.jfifn2.jfif"); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+#box1{
+    border: 4px solid;
+    border-color: black;
+    width: 125px;
+    background: darkblue;
+    margin: 5px;
+    color: lightblue;
+}
+#over{
+    border: 4px solid;
+    width: 290px;
+    background-color: cornflowerblue;
+}
+#vraag1{
+    border: 4px solid;
+    border-color: black;
+    width: 290px;
+    background: darkblue;
+    margin: 5px;
+    color: lightblue;
+    
+}
+#vraag2{
+    border: 4px solid;
+    border-color: black;
+    width: 290px;
+    background: darkblue;
+    margin: 5px;
+    color: lightblue;
+    
+}
+#vraag3{
+    border: 4px solid;
+    border-color: black;
+    width: 290px;
+    background: darkblue;
+    margin: 5px;
+    color:lightblue;
+    
+}
+#vraag4{
+    border: 4px solid;
+    border-color: black;
+    width: 290px;
+    background: darkblue;
+    margin: 5px;
+    color: black;
+    background-image:  url("allah\ background.jfif"); 
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 220px;
+    
+}
+#invraag4{
+    border: 4px solid;
+    width: 282px;
+    height: 90px;
+    background-color: cornflowerblue;
+    border-color: darkblue;
+    
+    
+}
+#vraag5{border: 4px solid;
+    border-color: black;
+    width: 290px;
+    background: darkblue;
+    margin: 5px;
+    color:lightblue;
+    
+   }
+   
+   
+    #vraag6{border: 4px solid;
+        border-color: black;
+        width: 290px;
+        background: darkblue;
+        margin: 5px;
+        color:lightblue;
+        
+        
+
+    }
+    #allevraagen{
+        float: right;
+    }
